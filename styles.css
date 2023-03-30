@@ -158,3 +158,15 @@ iframe{
 .col{
     margin-bottom: 20px;
 }
+#seccion-articDer{
+    background-color: rgb(222, 255, 38);
+    padding: 20px;
+    margin: 20px auto;
+    width: 700px;
+  }
+  #seccion-articIzq{
+    background-color: rgb(50, 255, 60);
+    padding: 20px;
+    margin: 20px auto;
+    width: 700px;
+  }
